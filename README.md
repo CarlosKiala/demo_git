@@ -7,4 +7,4 @@ Tout se passe bien
 
 et maintenant on modifier depuis git hub
 
-Je modifie depuis un autre prc linux 
+Je modifie depuis un autre pc linux 
